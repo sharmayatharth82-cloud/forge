@@ -1,0 +1,36 @@
+:root {
+  --bg: #09090b;
+  --surface: rgba(255,255,255,.05);
+  --surface-hover: rgba(255,255,255,.08);
+  --glass: rgba(255,255,255,.06);
+  --glass-strong: rgba(255,255,255,.10);
+
+  --border: rgba(255,255,255,.08);
+
+  --text: #fafafa;
+  --text-secondary: #a1a1aa;
+
+  --primary: #5b8cff;
+  --primary-light: #79a5ff;
+
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+
+  --radius-sm: 16px;
+  --radius-md: 24px;
+  --radius-lg: 32px;
+  --radius-xl: 40px;
+
+  --blur-sidebar: 28px;
+  --blur-panel: 36px;
+
+  --shadow-soft:
+      0 20px 60px rgba(0,0,0,.35);
+
+  --shadow-neo:
+      inset 1px 1px rgba(255,255,255,.08),
+      inset -1px -1px rgba(0,0,0,.15);
+
+  --transition: 180ms cubic-bezier(.2,.8,.2,1);
+}
